@@ -1,0 +1,42 @@
+*
+{
+  font-style: italic;
+}
+
+h2
+
+{
+  font-family: Arial;
+  /* font-size: medium; */
+  color: blue; /*Commentaires */
+}
+
+.introduction
+{
+  color: grey;
+}
+
+#intro
+{
+  color: pink;
+}
+
+.flotant
+{
+  float:left;
+}
+
+a:hover
+{
+  color:green;
+}
+
+a:active
+{
+  border-left: 3px solid black;
+}
+
+a:focus
+{
+  background-color: #77FF88;
+}
